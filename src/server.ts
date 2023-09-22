@@ -50,7 +50,7 @@ const bootServer = async () => {
       'https://oauth.casso.vn',
       `${process.env.DOMAIN}`,
       'https://ban-sach-truc-tuyen.vercel.app',
-      'https://web-ban-sach-ochre.vercel.app'
+      'https://abookvn.vercel.app'
    ];
    app.use(
       cors({
